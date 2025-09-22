@@ -2,7 +2,7 @@
 
 Welcome to Sprite Swim, a new take on Sprite Flight. Sprite Swim lets you navigate the ocean as a little red fish, but beware, there are some deadly Puffers headed straight for you! Swim around and avoid the puffer fish to gain points!
 
-Unity Play Link: `{enter here}`
+[Unity Play Link](https://play.unity.com/en/games/200fb948-65cb-4a0d-8a8f-bec7de25aec7/sprite-swim)
 
 Instructions:
 - To play, simply click on the above link and start a new game.
